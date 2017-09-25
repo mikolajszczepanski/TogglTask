@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TogglTask", "TogglTask\TogglTask.csproj", "{87AEE343-5E8A-4717-87B1-1B262CDACC19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TogglTaskTests", "TogglTaskTests\TogglTaskTests.csproj", "{F7B67A55-475D-41E3-9897-1C993778E136}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{87AEE343-5E8A-4717-87B1-1B262CDACC19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87AEE343-5E8A-4717-87B1-1B262CDACC19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87AEE343-5E8A-4717-87B1-1B262CDACC19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B67A55-475D-41E3-9897-1C993778E136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B67A55-475D-41E3-9897-1C993778E136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B67A55-475D-41E3-9897-1C993778E136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B67A55-475D-41E3-9897-1C993778E136}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
